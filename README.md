@@ -3,7 +3,7 @@
 #### Sobre | About
 Sou publicitário, designer gráfico e desenvolverdor web. Atualmente, estudando na [Rocketseat](https://rocketseat.com.br/).
 <br>—<br>
-I'm a Graphic Designer and Junior Web Developer, focused in Front-end. Currently, studying at [Rocketseat](https://rocketseat.com.br/).
+I'm a Graphic Designer and Web Developer, focused in Front-end. Currently, studying at [Rocketseat](https://rocketseat.com.br/).
 
 #### Conhecimentos e Ferramentas | Current Stack
 - 🧬 Linguagens | Languages: `JavaScript` - `HTML` - `CSS`
