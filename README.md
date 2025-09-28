@@ -10,6 +10,7 @@ I'm a Graphic Designer and Web Developer, focused in Front-end. Currently, study
     <img width="17" height="24" alt="HTML" src="https://github.com/user-attachments/assets/511b5320-4223-4e03-8d30-c9fee2f87b75" />&nbsp;`HTML` -
     <img width="17" height="24" alt="CSS" src="https://github.com/user-attachments/assets/664afac9-e252-4547-bbbb-fdc376984ae5" />&nbsp;`CSS` -
     <img width="20" height="20" alt="JavaScript" src="https://github.com/user-attachments/assets/284c3cb7-6eb8-45e7-85ec-67f9ce109803" />&nbsp;`JavaScript`
+    <img width="20" height="27" alt="JavaScript" src="https://github.com/user-attachments/assets/ca8db005-1e7f-4e6b-9dec-28068e5e046d" />
 - 🔥 Frameworks: `React.js`
 - 🎨 Design: `Figma` - `Photoshop` - `Lightroom` - `Illustrator` - `InDesign` - `Premiere` - `After Effects`
 - 💻 Ferramentas | Tools: `Git & GitHub` - `VS Code`
