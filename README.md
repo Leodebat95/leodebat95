@@ -6,12 +6,12 @@ Sou publicitário, designer gráfico e desenvolverdor web. Atualmente, estudando
 I'm a Graphic Designer and Web Developer, focused in Front-end. Currently, studying at [Rocketseat](https://rocketseat.com.br/).
 
 #### Conhecimentos e Ferramentas | Current Stack
+<div style="display:flex;align-items:center;">
 - 🧬 Linguagens | Languages:
-      <div style="display:flex;align-items:center;">
            <img width="20" height="20" alt="JavaScript" src="https://github.com/user-attachments/assets/284c3cb7-6eb8-45e7-85ec-67f9ce109803" />&nbsp;`JavaScript` -
            <img width="20" height="28" alt="HTML" src="https://github.com/user-attachments/assets/511b5320-4223-4e03-8d30-c9fee2f87b75" />&nbsp;`HTML` -
            <img width="20" height="28" alt="CSS" src="https://github.com/user-attachments/assets/664afac9-e252-4547-bbbb-fdc376984ae5" />&nbsp;`CSS`
-      </div>
+</div>
 - 🔥 Frameworks: `React.js`
 - 🎨 Design: `Figma` - `Photoshop` - `Lightroom` - `Illustrator` - `InDesign` - `Premiere` - `After Effects`
 - 💻 Ferramentas | Tools: `Git & GitHub` - `VS Code`
