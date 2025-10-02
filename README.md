@@ -16,4 +16,4 @@ I'm a Graphic Designer and Web Developer, focused in Front-end. Currently, study
 
 #### Contato | Contact
 - ✉️&nbsp; leonardobdebattisti@gmail.com
-- <img width="18" height="18" alt="LinkedIn" src="https://github.com/user-attachments/assets/68a8469e-f6e1-41a7-a181-fc3099e6c3fe" />&nbsp;&nbsp;&nbsp;[Leonardo Debattisti - Profile](https://www.linkedin.com/in/leonardo-debattisti-015150262/)
+- &nbsp;<img width="18" height="18" alt="LinkedIn" src="https://github.com/user-attachments/assets/68a8469e-f6e1-41a7-a181-fc3099e6c3fe" />&nbsp;&nbsp;[Leonardo Debattisti - Profile](https://www.linkedin.com/in/leonardo-debattisti-015150262/)
