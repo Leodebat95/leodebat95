@@ -15,5 +15,5 @@ I'm a Graphic Designer and Web Developer, focused in Front-end. Currently, study
 - 💻 Ferramentas | Tools: `Git & GitHub` - `VS Code`
 
 #### Contato | Contact
-- ✉️&nbsp;&nbsp; leonardobdebattisti@gmail.com
+- ✉️  leonardobdebattisti@gmail.com
 - <img width="20" height="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/73e59486-04b2-431a-93b3-9e6e77c75ed7" />&nbsp;&nbsp;[Leonardo Debattisti - Profile](https://www.linkedin.com/in/leonardo-debattisti-015150262/)
