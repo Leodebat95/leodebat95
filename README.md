@@ -9,11 +9,11 @@ I'm a Graphic Designer and Web Developer, focused in Front-end. Currently, study
 - 🧬 Linguagens | Languages: &nbsp;
     <img width="17" height="24" style="position:absolute;bottom:-10px;" alt="HTML" src="https://github.com/user-attachments/assets/511b5320-4223-4e03-8d30-c9fee2f87b75" />&nbsp;`HTML` -
     <img width="17" height="24" alt="CSS" src="https://github.com/user-attachments/assets/664afac9-e252-4547-bbbb-fdc376984ae5" />&nbsp;`CSS` -
-    <img width="20" height="20" alt="JavaScript" src="https://github.com/user-attachments/assets/284c3cb7-6eb8-45e7-85ec-67f9ce109803" />&nbsp;`JavaScript`
+    <img width="20" height="20" alt="JavaScript" src="https://github.com/user-attachments/assets/284c3cb7-6eb8-45e7-85ec-67f9ce109803" />;`JavaScript`
 - 🔥 Frameworks: &nbsp; <img width="22" height="20" alt="React" src="https://github.com/user-attachments/assets/c6106114-f333-4e02-806e-106645fb63b7" />&nbsp;`React.js`
 - 🎨 Design: `Figma` - `Photoshop` - `Lightroom` - `Illustrator` - `InDesign` - `Premiere` - `After Effects`
 - 💻 Ferramentas | Tools: `Git & GitHub` - `VS Code`
 
 #### Contato | Contact
-- ✉️ Email: leonardobdebattisti@gmail.com
-- <img width="20" height="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/73e59486-04b2-431a-93b3-9e6e77c75ed7" /> LinkedIn: [Leonardo Debattisti Profile](https://www.linkedin.com/in/leonardo-debattisti-015150262/)
+- ✉️ leonardobdebattisti@gmail.com
+- <img width="20" height="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/73e59486-04b2-431a-93b3-9e6e77c75ed7" />&nbsp;[Leonardo Debattisti Profile](https://www.linkedin.com/in/leonardo-debattisti-015150262/)
